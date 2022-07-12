@@ -1,5 +1,7 @@
 ###  Sang moon Lee 👋
 
+pip install -r requirements.txt
+python manage.py runserver
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=sml0517)](https://solved.ac/sml0517)
