@@ -26,4 +26,3 @@ Here are some ideas to get you started:
 * Tensorflow Developer
 * CCNA
 * Linux master 1st grade
-* 
