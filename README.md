@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 -->
 
 ### Interest ✨
-
+* Machine Learning & Deep Learning
+* Kaggle Contest
+* Anomaly Detection
+* Natural language processing
 
 ### Certificate 🌟
 
