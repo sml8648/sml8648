@@ -18,14 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Interest ✨
-* Machine Learning & Deep Learning
-* Kaggle Contest
-* Anomaly Detection
-* Natural language processing
-
-### Certificate 🌟
-
-* Tensorflow Developer
-* CCNA
-* Linux master 1st grade
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sml8648&show_icons=true&theme=radical)
